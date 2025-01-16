@@ -1,0 +1,10 @@
+.w-md-50 {
+  @media (min-width: 768px) {
+    width: 50% !important;
+  }
+}
+.w-xl-100 {
+  @media (min-width: 768px) {
+    width: 100% !important;
+  }
+}
